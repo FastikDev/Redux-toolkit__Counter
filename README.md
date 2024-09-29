@@ -2,7 +2,7 @@
 
 - Redux Complete Tutorial (Counter)
 
-### [Site link](https://redux-counter-with-ts.netlify.app/)
+### [Site link]()
 
 ### The tech stack is
 
