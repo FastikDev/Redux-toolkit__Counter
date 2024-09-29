@@ -30,7 +30,7 @@ module.exports = (_, argv) => {
           use: [isProduction ? MiniCssExtractPlugin.loader : 'style-loader', 'css-loader']
         },
         {
-          test: /\.scss$/, // Добавляем обработку SCSS файлов
+          test: /\.scss$/,
           use: [
             isProduction ? MiniCssExtractPlugin.loader : 'style-loader',
             'css-loader',
